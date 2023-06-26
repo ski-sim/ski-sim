@@ -8,7 +8,7 @@ Hello, my name is kyuil sim and I am a student at [hanyang University](https://e
 - 😄 Pronouns: he/His/Him
 
 
-![kyuil's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![kyuil's Github Stats](https://github-readme-stats.vercel.app/api?username=ski-sim&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ski-sim&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ski-sim.ski-sim)
