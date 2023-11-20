@@ -2,7 +2,7 @@
 
 Hello, my name is kyuil sim and I am a student at [hanyang University](https://eecs.oregonstate.edu/) majoring in Industrial Engineering. 
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 🔭 I’m currently working at [spacemap]([http://web.engr.oregonstate.edu/~termehca/](https://spacemap42.com/))
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: kuilshim1117@gmail.com
 - 😄 Pronouns: he/His/Him
