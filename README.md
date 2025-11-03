@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [KYUIL](https://rusty-sj.github.io/)! 😁
 
-Hello, my name is kyuil sim and I am a student at [hanyang University](https://eecs.oregonstate.edu/) majoring in Industrial Engineering. 
+Hello, my name is kyuil sim and I am a student at [Korea Advanced Institute of Science and Technology](https://eecs.oregonstate.edu/) majoring in Industrial Engineering. 
 
 - 🔭 I did an internship  at [spacemap](https://spacemap42.com/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
