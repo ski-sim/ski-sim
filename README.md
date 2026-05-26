@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4F8BF9&center=true&vCenter=true&width=600&lines=Optimization+%7C+Algorithms+%7C+Operations+Research;Brainstorm+with+me+over+tech+and+music+%F0%9F%8E%B5;Always+curious%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4F8BF9&center=true&vCenter=true&width=600&lines=Optimization+%7C+Reinforcement+Learning+%7C+Generative+Model;Brainstorm+with+me+over+tech+and+music+%F0%9F%8E%B5;Always+curious%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 Currently pursuing my **Master's degree** at [**KAIST**](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology), majoring in **Industrial & Systems Engineering**
-- 🔬 Researcher at [**SILAB**]([https://www.kaist.ac.kr/en/](https://silab.kaist.ac.kr/)) (Systems Intelligence Lab)
+- 🔬 Researcher at [**SILAB**](https://silab.kaist.ac.kr/) (Systems Intelligence Lab)
 - 🔭 Previously interned at [**Spacemap**](https://spacemap42.com/)
 - 💬 Ask me about — or brainstorm with me on — **tech, algorithms, career, and music** 🎶
 - 📫 Reach me at **kyuil.sim@kaist.ac.kr**
