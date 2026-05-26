@@ -15,7 +15,7 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 Currently pursuing my **Master's degree** at [**KAIST**](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology), majoring in **Industrial & Systems Engineering**
-- 🔬 Researcher at **SILAB**([https://www.kaist.ac.kr/en/](https://silab.kaist.ac.kr/)) (Systems Intelligence Lab)
+- 🔬 Researcher at [**SILAB**]([https://www.kaist.ac.kr/en/](https://silab.kaist.ac.kr/)) (Systems Intelligence Lab)
 - 🔭 Previously interned at [**Spacemap**](https://spacemap42.com/)
 - 💬 Ask me about — or brainstorm with me on — **tech, algorithms, career, and music** 🎶
 - 📫 Reach me at **kyuil.sim@kaist.ac.kr**
